@@ -28,7 +28,7 @@ the next morning by 9:00am.
 
 The Audubon Society has asked you to build them a website where users can upload
 pictures of birds and see those pictures in their own dedicated show page. So,
-your app will have Create and Read. Your app should therefore have the following
+your app will have Create (and, if you tackle the bonus, Read). Your app should therefore have the following
 pages:
 
 **Home Page:** Users should see a thumbnail image for each bird. Clicking on the
